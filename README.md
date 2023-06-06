@@ -1,7 +1,7 @@
 # Project 0: Tic-tac-toe in Racket
 
 # Install
-First go to https://download.racket-lang.org and select the type of device you are on and begin installation
+First, if Racket is not already installed, go to https://download.racket-lang.org and select the type of device you are on and begin installation
 
 Open the downloaded file to complete the installion from there 
 
